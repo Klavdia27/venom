@@ -1,5 +1,4 @@
 body {
-  background-color: #14131a;
   color: #fff;
   font-family: 'Roboto', sans-serif;
 }
@@ -70,4 +69,13 @@ body {
 }
 .button-group {
   margin-top: 70px;
+}
+.venom {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.blood {
+  background:  url("../img/blood.png") no-repeat top right, #14131a url("../img/background.jpg") no-repeat center / 100%;
+  
 }
